@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# FAT Hospital & Trust Website (Vite + React)
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1tFXv5l10X43kj11E3cMLkK981WVHV9hr
+This is the frontend website project built with Vite + React.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js (LTS)
 
-
-1. Install dependencies:
+1. Install dependencies  
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+
+2. Start development server  
    `npm run dev`
+
+3. Build for production  
+   `npm run build`
+
+## Deploy
+
+This project is deployed using **Vercel + GitHub**.  
+Every `git push` to the `main` branch triggers an automatic redeploy.
