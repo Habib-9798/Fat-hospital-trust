@@ -23,10 +23,10 @@ export const NAVIGATION_LINKS = [
 ];
 
 export const BANK_DETAILS: BankDetails = {
-  bankName: "Meezan Bank Ltd",
-  accountTitle: "Fayyaz Ur Rehman Alvi Trust",
-  accountNumber: "0101-01010101-01",
-  iban: "PK00 MEZN 0000 0000 0000 0000",
+  bankName: "MCB Islamic Bank",
+  accountTitle: "FATH Health Clinic",
+  accountNumber: "2251004614710003",
+  iban: "PK96 MCIB 2251 0046 1471 0003",
 };
 
 export const CONTACT_INFO = {
