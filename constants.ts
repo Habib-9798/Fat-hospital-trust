@@ -32,7 +32,7 @@ export const BANK_DETAILS: BankDetails = {
 export const CONTACT_INFO = {
   address: "Opposite Royal Samah Bypass, Mansehra, KPK, Pakistan",
   phone: "0997-389545 ",
-  emergency: "0300-1070309",
+  emergency: "+92300-1070309",
   email: "fayyazurrehmantrust@gmail.com",
   mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d823.6749755872568!2d73.21862614285214!3d34.33266122036597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38de3d69fa3e8527%3A0x82770c7d9912eecf!2sFayyaz%20ur%20rahman%20trust!5e0!3m2!1sen!2s!4v1771410609774!5m2!1sen!2s"
 };
