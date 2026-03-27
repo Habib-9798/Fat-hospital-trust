@@ -101,7 +101,7 @@ export const PROJECTS: Project[] = [
     category: "Education",
     summary: "Empowering female students through religious and contemporary education.",
     description: "Darul Qura Madrasa focuses on providing free education to girls in underprivileged areas. We combine traditional Islamic studies with modern curriculum to ensure a well-rounded upbringing.",
-    image: "https://picsum.photos/800/600?random=1",
+    image: "/images/darul-qura.png",
   },
   {
     id: "iqra-virtual-school",
@@ -109,7 +109,7 @@ export const PROJECTS: Project[] = [
     category: "Education",
     summary: "Bringing quality education to remote areas through digital classrooms.",
     description: "Leveraging technology to bridge the gap in education. Our virtual school connects expert teachers from cities to students in remote villages of Mansehra.",
-    image: "https://picsum.photos/800/600?random=2",
+    image: "/images/iqra-virtual-school.png",
   },
   {
     id: "water-projects",
@@ -117,7 +117,7 @@ export const PROJECTS: Project[] = [
     category: "Infrastructure",
     summary: "Installing water pumps and wells in drought-hit regions.",
     description: "Access to clean drinking water is a basic human right. We have installed over 500 hand pumps and deep wells, serving thousands of families daily.",
-    image: "https://picsum.photos/800/600?random=3",
+    image: "/images/water-projects.png",
   },
   {
     id: "trust-foundation",
@@ -125,7 +125,7 @@ export const PROJECTS: Project[] = [
     category: "Welfare",
     summary: "General welfare, food distribution, and orphan support.",
     description: "The backbone of our charitable activities. The foundation manages ration drives, orphan sponsorship programs, and emergency relief efforts.",
-    image: "https://picsum.photos/800/600?random=4",
+    image: "/images/trust-foundation.png",
   },
 
 ];
