@@ -38,10 +38,10 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title>About | FAT Hospital</title>
+        <title>About | FAiT Hospital</title>
         <meta
           name="description"
-          content="Learn about FAT Hospital: our mission, founder leadership, and commitment to accessible healthcare and transparent charity."
+          content="Learn about FAIT Hospital: our mission, founder leadership, and commitment to accessible healthcare and transparent charity."
         />
       </Helmet>
 
@@ -65,7 +65,7 @@ export default function About() {
               <MotionReveal>
                 <div className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold text-white backdrop-blur">
                   <ShieldCheck className="h-4 w-4" />
-                  About FAT Hospital & Foundation
+                  About FAiT Hospital & Foundation
                 </div>
               </MotionReveal>
 

@@ -1,4 +1,4 @@
-# FAT Hospital & Trust Website (Vite + React)
+# FAiT Hospital & Trust Website (Vite + React)
 
 This is the frontend website project built with Vite + React.
 

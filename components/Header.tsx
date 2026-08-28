@@ -10,7 +10,7 @@ function Logo() {
     <Link to="/" className="inline-flex items-center">
       <img
         src="/images/logo.png"
-        alt="FAT Hospital & Trust"
+        alt="FAIT Hospital & Trust"
         className="h-14 w-auto sm:h-14 md:h-14"
         loading="eager"
       />

@@ -115,10 +115,10 @@ export default function Hospital() {
   return (
     <>
       <Helmet>
-        <title>Hospital | FAT Hospital</title>
+        <title>Hospital | FAIT Hospital</title>
         <meta
           name="description"
-          content="Explore departments, doctors, and facilities at FAT Hospital. Emergency support, diagnostics, and everyday care delivered with empathy."
+          content="Explore departments, doctors, and facilities at FAIT Hospital. Emergency support, diagnostics, and everyday care delivered with empathy."
         />
       </Helmet>
 

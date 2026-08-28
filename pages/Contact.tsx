@@ -45,10 +45,10 @@ export default function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact | FAT Hospital</title>
+        <title>Contact | FAIT Hospital</title>
         <meta
           name="description"
-          content="Contact FAT Hospital for appointments, emergency help, or donations. Find our phone numbers, address, and location map."
+          content="Contact FAIT Hospital for appointments, emergency help, or donations. Find our phone numbers, address, and location map."
         />
       </Helmet>
 
